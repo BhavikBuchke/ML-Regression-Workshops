@@ -20,7 +20,7 @@ This repository is a curated collection of data science projects focused on solv
 
 * **Action:** I engineered an automated preprocessing pipeline to handle high-cardinality categorical data and missing values. I then iteratively trained models ranging from **Linear Regression** to **Random Forest Ensembles**.
 * **Result:** The **Random Forest Regressor** achieved the highest accuracy. I **gained** a significant reduction in RMSE by utilizing ensemble bagging to stabilize predictions across diverse property types.
-* **[View Project Notebook](https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Predictio)**
+* **[View Project Notebook](https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Prediction)**
 
 ### 2. 🏎️ Automotive Market Analysis
 
@@ -28,10 +28,4 @@ This repository is a curated collection of data science projects focused on solv
 
 * **Action:** Applied **One-Hot Encoding** for categorical features and **Standard Scaling** for numerical inputs within a unified Scikit-Learn Pipeline.
 * **Result:** I **gained** a highly portable preprocessing framework that allows the model to process new vehicle data with zero manual feature engineering.
-* **[View Project Details](https://www.google.com/search?q=./Predict_house_prices.ipynb%23Exercises)**
-
-
-```
-3. **No "Exercise" talk:** It treats the car price section as an "Automotive Market Analysis" rather than just a homework exercise.
-
-**Would you like me to now finalize the "About" summary for your GitHub sidebar based on this new professional tone?**
+* **[View Project Details](https://www.google.com/search?q=./Predict_house_prices.ipynb%23Exercises)**essional tone?**
