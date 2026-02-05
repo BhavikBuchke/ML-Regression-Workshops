@@ -20,7 +20,7 @@ This repository is a curated collection of data science projects focused on solv
 
 * **Action:** I engineered an automated preprocessing pipeline to handle high-cardinality categorical data and missing values. I then iteratively trained models ranging from **Linear Regression** to **Random Forest Ensembles**.
 * **Result:** The **Random Forest Regressor** achieved the highest accuracy. I **gained** a significant reduction in RMSE by utilizing ensemble bagging to stabilize predictions across diverse property types.
-* **[View Project Notebook]([https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Predictio])**
+* **[View Project Notebook](https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Predictio)**
 
 ### 2. 🏎️ Automotive Market Analysis
 
