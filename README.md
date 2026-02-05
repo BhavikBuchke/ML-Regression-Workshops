@@ -28,4 +28,4 @@ This repository is a curated collection of data science projects focused on solv
 
 * **Action:** Applied **One-Hot Encoding** for categorical features and **Standard Scaling** for numerical inputs within a unified Scikit-Learn Pipeline.
 * **Result:** I **gained** a highly portable preprocessing framework that allows the model to process new vehicle data with zero manual feature engineering.
-* **[View Project Details](https://www.google.com/search?q=./Predict_house_prices.ipynb%23Exercises)**essional tone?**
+* **[View Project](https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Automotive%20Market%20Analysis)**
