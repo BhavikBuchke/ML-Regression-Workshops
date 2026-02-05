@@ -20,7 +20,7 @@ This repository is a curated collection of data science projects focused on solv
 
 * **Action:** I engineered an automated preprocessing pipeline to handle high-cardinality categorical data and missing values. I then iteratively trained models ranging from **Linear Regression** to **Random Forest Ensembles**.
 * **Result:** The **Random Forest Regressor** achieved the highest accuracy. I **gained** a significant reduction in RMSE by utilizing ensemble bagging to stabilize predictions across diverse property types.
-* **[View Project Notebook]([https://www.google.com/search?q=./Predict_house_prices.ipynb](https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Prediction))**
+* **[View Project Notebook]([https://github.com/BhavikBuchke/ML-Regression-Workshops/tree/main/Residential%20House%20Price%20Predictio])**
 
 ### 2. 🏎️ Automotive Market Analysis
 
@@ -30,20 +30,6 @@ This repository is a curated collection of data science projects focused on solv
 * **Result:** I **gained** a highly portable preprocessing framework that allows the model to process new vehicle data with zero manual feature engineering.
 * **[View Project Details](https://www.google.com/search?q=./Predict_house_prices.ipynb%23Exercises)**
 
----
-
-## ⚙️ Installation & Usage
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your-username/Regression-Case-Studies.git
-
-```
-
-
-2. **Install requirements:**
-```bash
-pip install pandas==2.2.2 matplotlib==3.8.4 seaborn==0.13.2 scikit-learn==1.4.2
 
 ```
 3. **No "Exercise" talk:** It treats the car price section as an "Automotive Market Analysis" rather than just a homework exercise.
